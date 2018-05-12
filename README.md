@@ -1,4 +1,4 @@
 emacs-lisp-commentary-format
 ============================
 
-this will be an npm package!
+this will be a MELPA package!
